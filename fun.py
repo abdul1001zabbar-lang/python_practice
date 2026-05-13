@@ -10,3 +10,4 @@ def fun(x):
 result = fun(6)
 print(result)
 
+print(x)
