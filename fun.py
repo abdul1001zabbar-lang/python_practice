@@ -22,3 +22,6 @@ print(x)
 
 x = 40
 print(x)
+
+x = 50
+print(x)
