@@ -9,6 +9,7 @@ def fun(x):
 
 result = fun(6)
 print(result)
+<<<<<<< HEAD
 
 x= 10
 print(x)
@@ -16,3 +17,5 @@ print(x)
 x= 20
 print(x)
 
+=======
+>>>>>>> main
