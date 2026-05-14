@@ -10,11 +10,15 @@ def fun(x):
 result = fun(6)
 print(result)
 
-x= 10
+x = 10
 print(x)
 
-x= 20
+x = 20
 print(x)
 
-x=30
+x = 30
+print(x)
+
+
+x = 40
 print(x)
